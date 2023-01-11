@@ -56,7 +56,8 @@
 
 ### :fire: My Stats :
  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CredoRevolution&theme=dark&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CredoRevolution&theme=dark&mode=weekly)](https://git.io/streak-stats)  
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CredoRevolution)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
