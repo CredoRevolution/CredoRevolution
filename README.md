@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="30%"/>
 
   <div id="badges" align="center">
-    <a href="your-linkedin-URL">
+    <a href="https://www.instagram.com/destiny_y_n/">
       <img src="https://img.shields.io/badge/instagram-yellow?style=for-the-badge&logo=instagram&logoColor=black" alt="instagram Badge"/>
     </a>
     <a href="https://t.me/BreakdownOfSanityy" target="blank">
