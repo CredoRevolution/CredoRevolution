@@ -16,8 +16,6 @@ Embark on a cosmic journey with me, a vibrant mid-level frontend sorcerer weavin
 
 ## 🌟 Journey into the Unknown
 
-![Journey](journey-pic.jpg)
-
 - 🧰 **Toolbox Mastery:** Versed in the magical crafts of web development, from wielding WordPress spells to conjuring with build tools like Gulp.
 
 - 🌐 **Collaborative Spirit:** A communicative and adaptable team player, thriving in dynamic environments and ready to embrace new enchantments.
@@ -25,8 +23,6 @@ Embark on a cosmic journey with me, a vibrant mid-level frontend sorcerer weavin
 - 🚀 **Passion for Learning:** A joyful learner, ever-hungry for new experiences and eager to elevate my craft.
 
 ## 🌟 Let's Create Digital Epics
-
-![Creation](creation-pic.jpg)
 
 I'm on the lookout for new epics to craft and collaborators to join me in the magical realm of web development.
 
