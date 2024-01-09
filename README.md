@@ -2,7 +2,7 @@
   <img src="DSC_4853.jpg" alt="Alexandr" width="250"/>
 </p>
 
-# Greetings! I'm [Your Name] 🚀
+# Greetings! I'm Alexandr 🚀
 
 Embark on a cosmic journey with me, a vibrant mid-level frontend sorcerer weaving digital wonders.
 
