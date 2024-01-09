@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="offer__photo.jpg" alt="Alexandr" width="250"/>
+  <img src="offer_photo.jpg" alt="Alexandr" width="250"/>
 </p>
 
 # Greetings! I'm Alexandr 🚀
