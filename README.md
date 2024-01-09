@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-vibrant-pic.jpg" alt="Your Name" width="250"/>
+  <img src="DSC_4853.jpg" alt="Alexandr" width="250"/>
 </p>
 
 # Greetings! I'm [Your Name] 🚀
@@ -8,7 +8,7 @@ Embark on a cosmic journey with me, a vibrant mid-level frontend sorcerer weavin
 
 ## 🌈 Unleashing Digital Magic
 
-![Digital Magic](digital-magic.gif)
+![Digital Magic](magic.gif)
 
 - 💼 **Experience:** Over a year of enchanting freelancing, sculpting numerous captivating websites that bring joy to users.
 
@@ -32,8 +32,8 @@ Embark on a cosmic journey with me, a vibrant mid-level frontend sorcerer weavin
 
 I'm on the lookout for new epics to craft and collaborators to join me in the magical realm of web development.
 
-- [LinkedIn](link to your LinkedIn profile)
-- [Email](your email)
+- https://www.linkedin.com/in/credo-revolution-09493727b/
+- sadistik871@mail.ru
 
 ## 🚀 Coding Adventures Await!
 
