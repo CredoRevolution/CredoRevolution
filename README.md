@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DSC_4853.jpg" alt="Alexandr" width="250"/>
+  <img src="offer__photo.jpg" alt="Alexandr" width="250"/>
 </p>
 
 # Greetings! I'm Alexandr 🚀
@@ -7,8 +7,6 @@
 Embark on a cosmic journey with me, a vibrant mid-level frontend sorcerer weaving digital wonders.
 
 ## 🌈 Unleashing Digital Magic
-
-![Digital Magic](magic.gif)
 
 - 💼 **Experience:** Over a year of enchanting freelancing, sculpting numerous captivating websites that bring joy to users.
 
@@ -36,6 +34,8 @@ I'm on the lookout for new epics to craft and collaborators to join me in the ma
 - sadistik871@mail.ru
 
 ## 🚀 Coding Adventures Await!
+
+![Digital Magic](magic.gif)
 
 ![Coding Adventures](coding-adventures.gif)
 
