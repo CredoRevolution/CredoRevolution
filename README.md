@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="offer_photo.jpg" alt="Alexandr" width="200"/>
+  <img src="offer_photo.jpg" alt="Alex (me)" width="200"/>
 </p>
 
 # Hi, I'm Alex
