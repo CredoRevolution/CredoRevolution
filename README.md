@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="offer_photo_new.jpg" alt="Alex (me)" width="200"/>
-</p>
 
 # Hi, I'm Alex
 
