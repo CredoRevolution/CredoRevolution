@@ -2,9 +2,9 @@
   <img src="offer_photo.jpg" alt="Alexandr" width="200"/>
 </p>
 
-# Hi, I'm Alexandr
+# Hi, I'm Alex
 
-Frontend developer with 3+ years of experience building web applications and internal tools.
+Frontend developer with 6+ years of experience building web applications and internal tools.
 
 I enjoy creating structured, practical products that reduce friction and help people think and work more clearly.
 
