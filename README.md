@@ -1,38 +1,45 @@
 <p align="center">
-  <img src="offer_photo.jpg" alt="Alexandr" width="250"/>
+  <img src="offer_photo.jpg" alt="Alexandr" width="200"/>
 </p>
 
-# Greetings! I'm Alexandr 🚀
+# Hi, I'm Alexandr
 
-Embark on a cosmic journey with me, a vibrant mid-level frontend sorcerer weaving digital wonders.
+Frontend developer with 3+ years of experience building web applications and internal tools.
 
-## 🌈 Unleashing Digital Magic
+I enjoy creating structured, practical products that reduce friction and help people think and work more clearly.
 
-- 💼 **Experience:** Over a year of enchanting freelancing, sculpting numerous captivating websites that bring joy to users.
+---
 
-- 🚀 **Skills:** Master of the frontend arts—HTML, CSS (with a dash of various preprocessors), and JavaScript. Currently spellbinding with React, with plans to explore the realms of React Native and backend sorcery.
+## What I work with
 
-- 🎓 **Education:** Graduated from the mystical halls of frontend development courses, acquiring profound wisdom in JavaScript and React.
+- TypeScript / JavaScript  
+- Vue / Nuxt  
+- React (past experience)  
+- CSS / Tailwind  
+- Git & developer tooling  
 
-## 🌟 Journey into the Unknown
+---
 
-- 🧰 **Toolbox Mastery:** Versed in the magical crafts of web development, from wielding WordPress spells to conjuring with build tools like Gulp.
+## Currently building
 
-- 🌐 **Collaborative Spirit:** A communicative and adaptable team player, thriving in dynamic environments and ready to embrace new enchantments.
+### Comma  
+A Git-based worklog tool that turns focus sessions into structured Markdown logs.  
+Designed for people who value ownership, clarity, and long-term thinking.
 
-- 🚀 **Passion for Learning:** A joyful learner, ever-hungry for new experiences and eager to elevate my craft.
+More at: https://comma.gitignore.space
 
-## 🌟 Let's Create Digital Epics
+---
 
-I'm on the lookout for new epics to craft and collaborators to join me in the magical realm of web development.
+## What interests me
 
-- https://www.linkedin.com/in/credo-revolution-09493727b/
-- sadistik871@mail.ru
+- Building small, sustainable SaaS products  
+- Tools for structured thinking  
+- Local-first software  
+- Clean UI & thoughtful UX  
+- Long-term product development  
 
-## 🚀 Coding Adventures Await!
+---
 
-![Digital Magic](magic.gif)
+## Contact
 
-![Coding Adventures](coding-adventures.gif)
-
-Join me on this cosmic coding odyssey, where every line of code is a brushstroke on the canvas of the digital cosmos, and every project is a chance to create something extraordinary.
+- LinkedIn: https://www.linkedin.com/in/aliaksandr-mahdysiuk
