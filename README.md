@@ -12,7 +12,7 @@ I enjoy creating structured, practical products that reduce friction and help pe
 - TypeScript / JavaScript  
 - Vue / Nuxt  
 - React (past experience)  
-- CSS / Tailwind  
+- CSS / SCSS / Tailwind  
 - Git & developer tooling  
 
 ---
