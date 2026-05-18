@@ -1,42 +1,43 @@
-
 # Hi, I'm Alex
 
-Frontend developer with 6+ years of experience building web applications and internal tools.
+Full-Stack Developer & AI Automation Engineer based in Brest, Belarus.
 
-I enjoy creating structured, practical products that reduce friction and help people think and work more clearly.
-
----
-
-## What I work with
-
-- TypeScript / JavaScript  
-- Vue / Nuxt  
-- React (past experience)  
-- CSS / SCSS / Tailwind  
-- Git & developer tooling  
+I build complete products end-to-end — from Vue/Nuxt frontend to backend automation, AI agent systems, and analytics infrastructure.
 
 ---
 
-## Currently building
+## Stack
 
-### Comma  
-A Git-based worklog tool that turns focus sessions into structured Markdown logs.  
-Designed for people who value ownership, clarity, and long-term thinking.
+**Frontend**
+TypeScript · Vue 3 / Nuxt 4 · React · Tailwind CSS
 
-More at: https://comma.gitignore.space
+**Backend & Infrastructure**
+Node.js · Firebase / Firestore · DigitalOcean
+
+**AI & Automation**
+Claude API · n8n · Trigger.dev · AI Agent Orchestration
+
+**Analytics**
+GA4 · Google Tag Manager · BigQuery · Meta Pixel · Ahrefs · GSC
 
 ---
 
-## What interests me
+## Projects
 
-- Building small, sustainable SaaS products  
-- Tools for structured thinking  
-- Local-first software  
-- Clean UI & thoughtful UX  
-- Long-term product development  
+### AI Changelog Monitor
+Tracks official changelogs from OpenAI, Anthropic, Google, Mistral — notifies on model changes.
+Built with Nuxt 4 · TypeScript · Turso · Drizzle ORM · Trigger.dev · Resend
+
+→ [github.com/CredoRevolution/AI-changelog-monitor](https://github.com/CredoRevolution/AI-changelog-monitor)
+
+### Comma
+Git-based worklog that turns focus sessions into structured Markdown logs.
+Built with Nuxt 4 · TypeScript · Drizzle ORM · Turso · Octokit
+
+→ [comma.gitignore.space](https://comma.gitignore.space)
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/aliaksandr-mahdysiuk
+LinkedIn: https://www.linkedin.com/in/aliaksandr-mahdysiuk
