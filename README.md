@@ -88,6 +88,6 @@ Swagger.
 
 ## Contact
 
-[Telegram](https://t.me/AlexGitignore) ·
+[Telegram](https://t.me/AlexMahdysiuk) ·
 [LinkedIn](https://www.linkedin.com/in/aliaksandr-mahdysiuk/) ·
 [sadistik871m@gmail.com](mailto:sadistik871m@gmail.com)
